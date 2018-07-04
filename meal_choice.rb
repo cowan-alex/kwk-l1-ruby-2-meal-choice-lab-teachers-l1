@@ -23,6 +23,11 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
+puts breakfast("Frosted Flakes")
+
+puts lunch("grilled cheese")
+
+puts dinn
 
 
 # Call your methods without any arguments here
